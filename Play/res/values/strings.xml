@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Play</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">模拟发牌-统计</string>
+    <string name="shuffle">发牌</string>
+    <string name="analyze">结果分析</string>
+    <string name="gamble_num">赌徒数量</string>
+    <string name="times">测试次数</string>
+
+</resources>
